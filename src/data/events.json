@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Music Fest 2024",
+        "date": "2024-11-12",
+        "location": "New York, NY",
+        "description": "An amazing music festival with top artists.",
+        "image": "/assets/event1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Tech Expo",
+        "date": "2024-12-01",
+        "location": "San Francisco, CA",
+        "description": "Explore the latest in technology and innovation.",
+        "image": "/assets/event2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Art & Craft Fair",
+        "date": "2024-11-20",
+        "location": "Chicago, IL",
+        "description": "A celebration of creativity and craftsmanship.",
+        "image": "/assets/event3.jpg"
+    }
+]
